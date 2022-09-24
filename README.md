@@ -8,7 +8,7 @@
     <h1>
         hey there
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,
-        I am Eren Aytüre from Bilkent Univercity. I work in Vodafone NW optimization Team and also student at Bilkent, about to graduate.
+        I am Eren Aytüre from Bilkent University. I work in Vodafone NW optimization Team and also student at Bilkent, about to graduate.
         Throughout my college, I studied many topics and now, i am currently working on big data and its visualisation and analyses techniques
         in Network Optimization through GSM,UMTS and LTE networks. I alsa interested in embedded systems and data analyses. 
     </h1>
